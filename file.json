@@ -1,0 +1,8 @@
+{
+
+    "menu":"1.Morning<br>2.Afternoon<br>3.Evening<br>4.End this chat<br>Enter a number from [1-4]",
+    "1":"Enter 'Shiny Morning'",
+    "2":"Enter ' Matniee Afternoon'",
+    "3":"Enter ' Teatime Evening'",
+    "4":"Thank u will meet again"
+    }
